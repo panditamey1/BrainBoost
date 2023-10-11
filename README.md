@@ -10,10 +10,6 @@ BrainBoost is a web application designed to help you study any topic with ease. 
 - **Track Your Progress**: BrainBoost keeps track of your performance, so you can see your progress over time and identify areas where you need improvement.
 - **User-Friendly**: The user interface is intuitive and designed for a seamless user experience, making it suitable for learners of all ages.
 
-## Getting Started
-To get started with BrainBoost, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the necessary dependencies using your preferred package manager.
-3. Run the application locally.
-4. Start studying your chosen topics!
+## How to use
+BrainBoost is available on Streamlit, simply access the link and enjoy!
 
