@@ -1,0 +1,91 @@
+﻿QUESTION;ANSWER;CORRECT ANSWER;TOPIC;DIFFICULTY
+What is the primary goal of data mining?;To build a database of all available data;FALSE;Data Mining;EASY
+What is the primary goal of data mining?;To extract and transform data into reports;FALSE;Data Mining;EASY
+What is the primary goal of data mining?;To predict future trends and behaviors;TRUE;Data Mining;EASY
+What is the primary goal of data mining?;To store data in a secure and encrypted format;FALSE;Data Mining;EASY
+What is the primary goal of data mining?;To create data visualizations and charts;FALSE;Data Mining;EASY
+What is the primary goal of data mining?;To perform real-time data analysis;FALSE;Data Mining;EASY
+What is the primary goal of data mining?;To automate data entry tasks;FALSE;Data Mining;EASY
+What is the primary goal of data mining?;To generate random data samples;FALSE;Data Mining;EASY
+What is the primary goal of data mining?;To design database schemas;FALSE;Data Mining;EASY
+What is the primary goal of data mining?;To calculate mathematical constants like Pi;FALSE;Data Mining;EASY
+What is data preprocessing in data mining?;A process to convert data into graphical representations;FALSE;Data Mining;MEDIUM
+What is data preprocessing in data mining?;A step to create data backups;FALSE;Data Mining;MEDIUM
+What is data preprocessing in data mining?;A stage to clean, transform, and organize data;TRUE;Data Mining;MEDIUM
+What is data preprocessing in data mining?;A technique to predict future data;FALSE;Data Mining;MEDIUM
+What is data preprocessing in data mining?;A method to encrypt data;FALSE;Data Mining;MEDIUM
+What is data preprocessing in data mining?;A way to automate data entry;FALSE;Data Mining;MEDIUM
+What is data preprocessing in data mining?;A means to generate random data;FALSE;Data Mining;MEDIUM
+What is data preprocessing in data mining?;A process to design database schemas;FALSE;Data Mining;MEDIUM
+What is data preprocessing in data mining?;A step to calculate mathematical constants;FALSE;Data Mining;MEDIUM
+What is data preprocessing in data mining?;A method to create data visualizations;FALSE;Data Mining;MEDIUM
+What is clustering in data mining?;A process to organize data into reports;FALSE;Data Mining;HARD
+What is clustering in data mining?;A technique to predict future data;FALSE;Data Mining;HARD
+What is clustering in data mining?;A method to group similar data points together;TRUE;Data Mining;HARD
+What is clustering in data mining?;A way to encrypt data;FALSE;Data Mining;HARD
+What is clustering in data mining?;A means to automate data entry;FALSE;Data Mining;HARD
+What is clustering in data mining?;A process to generate random data;FALSE;Data Mining;HARD
+What is clustering in data mining?;A step to design database schemas;FALSE;Data Mining;HARD
+What is clustering in data mining?;A process to calculate mathematical constants;FALSE;Data Mining;HARD
+What is clustering in data mining?;A method to create data visualizations;FALSE;Data Mining;HARD
+What is clustering in data mining?;A stage to clean and preprocess data;FALSE;Data Mining;HARD
+What is the K-means algorithm in data mining used for?;To predict the weather;FALSE;Data Mining;EASY
+What is the K-means algorithm in data mining used for?;To identify clusters in data based on similarity;TRUE;Data Mining;EASY
+What is the K-means algorithm in data mining used for?;To create data backups;FALSE;Data Mining;EASY
+What is the K-means algorithm in data mining used for?;To design database schemas;FALSE;Data Mining;EASY
+What is the K-means algorithm in data mining used for?;To automate data entry;FALSE;Data Mining;EASY
+What is the K-means algorithm in data mining used for?;To calculate mathematical constants;FALSE;Data Mining;EASY
+What is the K-means algorithm in data mining used for?;To generate random data samples;FALSE;Data Mining;EASY
+What is the K-means algorithm in data mining used for?;To clean and preprocess data;FALSE;Data Mining;EASY
+What is the K-means algorithm in data mining used for?;To create data visualizations;FALSE;Data Mining;EASY
+What is the K-means algorithm in data mining used for?;To organize data into reports;FALSE;Data Mining;EASY
+What is the main purpose of feature selection in data mining?;To create data backups;FALSE;Data Mining;MEDIUM
+What is the main purpose of feature selection in data mining?;To design database schemas;FALSE;Data Mining;MEDIUM
+What is the main purpose of feature selection in data mining?;To identify the most relevant attributes or variables;TRUE;Data Mining;MEDIUM
+What is the main purpose of feature selection in data mining?;To predict the stock market;FALSE;Data Mining;MEDIUM
+What is the main purpose of feature selection in data mining?;To automate data entry;FALSE;Data Mining;MEDIUM
+What is the main purpose of feature selection in data mining?;To calculate mathematical constants;FALSE;Data Mining;MEDIUM
+What is the main purpose of feature selection in data mining?;To generate random data samples;FALSE;Data Mining;MEDIUM
+What is the main purpose of feature selection in data mining?;To clean and preprocess data;FALSE;Data Mining;MEDIUM
+What is the main purpose of feature selection in data mining?;To create data visualizations;FALSE;Data Mining;MEDIUM
+What is the main purpose of feature selection in data mining?;To predict future trends;FALSE;Data Mining;MEDIUM
+What is the role of cross-validation in data mining?;To organize data into graphical representations;FALSE;Data Mining;HARD
+What is the role of cross-validation in data mining?;To predict the class of objects;FALSE;Data Mining;HARD
+What is the role of cross-validation in data mining?;To validate the performance of a predictive model;TRUE;Data Mining;HARD
+What is the role of cross-validation in data mining?;To encrypt data;FALSE;Data Mining;HARD
+What is the role of cross-validation in data mining?;To generate random data;FALSE;Data Mining;HARD
+What is the role of cross-validation in data mining?;To design database schemas;FALSE;Data Mining;HARD
+What is the role of cross-validation in data mining?;To calculate mathematical constants;FALSE;Data Mining;HARD
+What is the role of cross-validation in data mining?;To create data backups;FALSE;Data Mining;HARD
+What is the role of cross-validation in data mining?;To perform real-time data analysis;FALSE;Data Mining;HARD
+What is the role of cross-validation in data mining?;To extract and transform data into reports;FALSE;Data Mining;HARD
+What is the main objective of the Apriori algorithm in data mining?;To create data visualizations;FALSE;Data Mining;EASY
+What is the main objective of the Apriori algorithm in data mining?;To generate a linear regretion;FALSE;Data Mining;EASY
+What is the main objective of the Apriori algorithm in data mining?;To automate data entry;FALSE;Data Mining;EASY
+What is the main objective of the Apriori algorithm in data mining?;To find frequent itemsets in transaction data;TRUE;Data Mining;EASY
+What is the main objective of the Apriori algorithm in data mining?;To encrypt data;FALSE;Data Mining;EASY
+What is the main objective of the Apriori algorithm in data mining?;To predict future stock prices;FALSE;Data Mining;EASY
+What is the main objective of the Apriori algorithm in data mining?;To calculate mathematical constants;FALSE;Data Mining;EASY
+What is the main objective of the Apriori algorithm in data mining?;To generate random data samples;FALSE;Data Mining;EASY
+What is the main objective of the Apriori algorithm in data mining?;To design database schemas;FALSE;Data Mining;EASY
+What is the main objective of the Apriori algorithm in data mining?;To clean and preprocess data;FALSE;Data Mining;EASY
+What is the purpose of outlier detection in data mining?;To design database schemas;FALSE;Data Mining;MEDIUM
+What is the purpose of outlier detection in data mining?;To predict the weather;FALSE;Data Mining;MEDIUM
+What is the purpose of outlier detection in data mining?;To identify unusual or rare data points;TRUE;Data Mining;MEDIUM
+What is the purpose of outlier detection in data mining?;To automate data entry;FALSE;Data Mining;MEDIUM
+What is the purpose of outlier detection in data mining?;To create data backups;FALSE;Data Mining;MEDIUM
+What is the purpose of outlier detection in data mining?;To calculate mathematical constants;FALSE;Data Mining;MEDIUM
+What is the purpose of outlier detection in data mining?;To generate random data samples;FALSE;Data Mining;MEDIUM
+What is the purpose of outlier detection in data mining?;To organize data into graphical representations;FALSE;Data Mining;MEDIUM
+What is the purpose of outlier detection in data mining?;To predict future trends;FALSE;Data Mining;MEDIUM
+What is the primary use of a decision tree in data mining?;To store and encrypt data;FALSE;Data Mining;HARD
+What is the primary use of a decision tree in data mining?;To create data visualizations;FALSE;Data Mining;HARD
+What is the primary use of a decision tree in data mining?;To make decisions by mapping out possible outcomes;TRUE;Data Mining;HARD
+What is the primary use of a decision tree in data mining?;To predict future stock prices;FALSE;Data Mining;HARD
+What is the primary use of a decision tree in data mining?;To automate data entry;FALSE;Data Mining;HARD
+What is the primary use of a decision tree in data mining?;To calculate mathematical constants;FALSE;Data Mining;HARD
+What is the primary use of a decision tree in data mining?;To generate random data samples;FALSE;Data Mining;HARD
+What is the primary use of a decision tree in data mining?;To design database schemas;FALSE;Data Mining;HARD
+What is the primary use of a decision tree in data mining?;To clean and preprocess data;FALSE;Data Mining;HARD
+What is the primary use of a decision tree in data mining?;To perform real-time data analysis;FALSE;Data Mining;HARD
+What is the purpose of outlier detection in data mining?;To normalize the data;FALSE;Data Mining;MEDIUM
