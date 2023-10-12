@@ -12,4 +12,4 @@ BrainBoost is a web application designed to help you study any topic with ease. 
 
 ## How to use
 BrainBoost is available on Streamlit, simply access the link and enjoy!
-
+https://brainboost.streamlit.app/
