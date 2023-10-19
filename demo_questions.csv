@@ -975,36 +975,36 @@ What is a common characteristic of NoSQL databases?;They do not support indexes;
 What is a common characteristic of NoSQL databases?;They do not support replication;FALSE;Data Management and Storage;HARD
 What is a common characteristic of NoSQL databases?;They do not provide horizontal scalability;FALSE;Data Management and Storage;HARD
 What is a common characteristic of NoSQL databases?;They only work on a single node;FALSE;Data Management and Storage;HARD
-What does the Data Management and Storage stand for?;None of the options;FALSE;Data Management and Storage;EASY
-What does the Data Management and Storage stand for?;Consistency, Availability, Partition tolerance;TRUE;Data Management and Storage;EASY
-What does the Data Management and Storage stand for?;Consistency, Acceptance, Persistence;FALSE;Data Management and Storage;EASY
-What does the Data Management and Storage stand for?;Complexity, Availability, Performance;FALSE;Data Management and Storage;EASY
-What does the Data Management and Storage stand for?;Concurrency, Affinity, Partition tolerance;FALSE;Data Management and Storage;EASY
-What does the Data Management and Storage stand for?;Consistency, Access, Performance;FALSE;Data Management and Storage;EASY
-What does the Data Management and Storage stand for?;Coherence, Availability, Partition tolerance;FALSE;Data Management and Storage;EASY
-What does the Data Management and Storage stand for?;Capability, Assurance, Persistence;FALSE;Data Management and Storage;EASY
-What does the Data Management and Storage stand for?;Configuration, Access, Partition tolerance;FALSE;Data Management and Storage;EASY
-What does the Data Management and Storage stand for?;Compression, Affinity, Persistence;FALSE;Data Management and Storage;EASY
-What does the Data Management and Storage state?;In a distributed database system, it is impossible to simultaneously achieve all three aspects of Consistency, Availability, and Partition tolerance;TRUE;Data Management and Storage;MEDIUM
-What does the Data Management and Storage state?;All database systems must prioritize Availability over Consistency;FALSE;Data Management and Storage;MEDIUM
-What does the Data Management and Storage state?;Data consistency is the most important factor in a distributed system;FALSE;Data Management and Storage;MEDIUM
-What does the Data Management and Storage state?;In a distributed system, Partition tolerance can always be achieved;FALSE;Data Management and Storage;MEDIUM
-What does the Data Management and Storage state?;Consistency is more important than both Availability and Partition tolerance;FALSE;Data Management and Storage;MEDIUM
-What does the Data Management and Storage state?;In a distributed system, Availability can always be achieved;FALSE;Data Management and Storage;MEDIUM
-What does the Data Management and Storage state?;Partition tolerance is not a factor in distributed systems;FALSE;Data Management and Storage;MEDIUM
-What does the Data Management and Storage state?;A distributed system can simultaneously achieve both strong consistency and high availability;FALSE;Data Management and Storage;MEDIUM
-What does the Data Management and Storage state?;In practical terms, it's possible to achieve all three aspects of CAP, but it's extremely complex and costly;FALSE;Data Management and Storage;MEDIUM
-What does the Data Management and Storage state?;Data Management and Storage is not applicable to distributed systems;FALSE;Data Management and Storage;MEDIUM
-What is Consistency in the context of the Data Management and Storage?;All nodes in the system see the same data at the same time;TRUE;Data Management and Storage;HARD
-What is Consistency in the context of the Data Management and Storage?;Data is stored in a consistent manner;FALSE;Data Management and Storage;HARD
-What is Consistency in the context of the Data Management and Storage?;Data is always available;FALSE;Data Management and Storage;HARD
-What is Consistency in the context of the Data Management and Storage?;Data is backed up regularly;FALSE;Data Management and Storage;HARD
-What is Consistency in the context of the Data Management and Storage?;Data is encrypted;FALSE;Data Management and Storage;HARD
-What is Consistency in the context of the Data Management and Storage?;Data is distributed evenly across nodes;FALSE;Data Management and Storage;HARD
-What is Consistency in the context of the Data Management and Storage?;Data is compressed for storage;FALSE;Data Management and Storage;HARD
-What is Consistency in the context of the Data Management and Storage?;Data is accessed through a cache;FALSE;Data Management and Storage;HARD
-What is Consistency in the context of the Data Management and Storage?;Data is partitioned by geographic location;FALSE;Data Management and Storage;HARD
-What is Consistency in the context of the Data Management and Storage?;Data is replicated to multiple nodes;FALSE;Data Management and Storage;HARD
+What does the Data Management and Storage CAP stand for?;None of the options;FALSE;Data Management and Storage;EASY
+What does the Data Management and Storage CAP stand for?;Consistency, Availability, Partition tolerance;TRUE;Data Management and Storage;EASY
+What does the Data Management and Storage CAP stand for?;Consistency, Acceptance, Persistence;FALSE;Data Management and Storage;EASY
+What does the Data Management and Storage CAP stand for?;Complexity, Availability, Performance;FALSE;Data Management and Storage;EASY
+What does the Data Management and Storage CAP stand for?;Concurrency, Affinity, Partition tolerance;FALSE;Data Management and Storage;EASY
+What does the Data Management and Storage CAP stand for?;Consistency, Access, Performance;FALSE;Data Management and Storage;EASY
+What does the Data Management and Storage CAP stand for?;Coherence, Availability, Partition tolerance;FALSE;Data Management and Storage;EASY
+What does the Data Management and Storage CAP stand for?;Capability, Assurance, Persistence;FALSE;Data Management and Storage;EASY
+What does the Data Management and Storage CAP stand for?;Configuration, Access, Partition tolerance;FALSE;Data Management and Storage;EASY
+What does the Data Management and Storage CAP stand for?;Compression, Affinity, Persistence;FALSE;Data Management and Storage;EASY
+What does the Data Management and Storage CAP state?;In a distributed database system, it is impossible to simultaneously achieve all three aspects of Consistency, Availability, and Partition tolerance;TRUE;Data Management and Storage;MEDIUM
+What does the Data Management and Storage CAP state?;All database systems must prioritize Availability over Consistency;FALSE;Data Management and Storage;MEDIUM
+What does the Data Management and Storage CAP state?;Data consistency is the most important factor in a distributed system;FALSE;Data Management and Storage;MEDIUM
+What does the Data Management and Storage CAP state?;In a distributed system, Partition tolerance can always be achieved;FALSE;Data Management and Storage;MEDIUM
+What does the Data Management and Storage CAP state?;Consistency is more important than both Availability and Partition tolerance;FALSE;Data Management and Storage;MEDIUM
+What does the Data Management and Storage CAP state?;In a distributed system, Availability can always be achieved;FALSE;Data Management and Storage;MEDIUM
+What does the Data Management and Storage CAP state?;Partition tolerance is not a factor in distributed systems;FALSE;Data Management and Storage;MEDIUM
+What does the Data Management and Storage CAP state?;A distributed system can simultaneously achieve both strong consistency and high availability;FALSE;Data Management and Storage;MEDIUM
+What does the Data Management and Storage CAP state?;In practical terms, it's possible to achieve all three aspects of CAP, but it's extremely complex and costly;FALSE;Data Management and Storage;MEDIUM
+What does the Data Management and Storage CAP state?;Data Management and Storage is not applicable to distributed systems;FALSE;Data Management and Storage;MEDIUM
+What is Consistency in the context of the Data Management and Storage CAP?;All nodes in the system see the same data at the same time;TRUE;Data Management and Storage;HARD
+What is Consistency in the context of the Data Management and Storage CAP?;Data is stored in a consistent manner;FALSE;Data Management and Storage;HARD
+What is Consistency in the context of the Data Management and Storage CAP?;Data is always available;FALSE;Data Management and Storage;HARD
+What is Consistency in the context of the Data Management and Storage CAP?;Data is backed up regularly;FALSE;Data Management and Storage;HARD
+What is Consistency in the context of the Data Management and Storage CAP?;Data is encrypted;FALSE;Data Management and Storage;HARD
+What is Consistency in the context of the Data Management and Storage CAP?;Data is distributed evenly across nodes;FALSE;Data Management and Storage;HARD
+What is Consistency in the context of the Data Management and Storage CAP?;Data is compressed for storage;FALSE;Data Management and Storage;HARD
+What is Consistency in the context of the Data Management and Storage CAP?;Data is accessed through a cache;FALSE;Data Management and Storage;HARD
+What is Consistency in the context of the Data Management and Storage CAP?;Data is partitioned by geographic location;FALSE;Data Management and Storage;HARD
+What is Consistency in the context of the Data Management and Storage CAP?;Data is replicated to multiple nodes;FALSE;Data Management and Storage;HARD
 What does ACID stand for in the context of a DBMS?;Atomicity, Consistency, Isolation, Durability;TRUE;Data Management and Storage;EASY
 What does ACID stand for in the context of a DBMS?;Association, Compatibility, Integrity, Durability;FALSE;Data Management and Storage;EASY
 What does ACID stand for in the context of a DBMS?;Accuracy, Continuity, Isolation, Durability;FALSE;Data Management and Storage;EASY
