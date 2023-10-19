@@ -185,8 +185,11 @@ What is the primary goal of data mining?;To design database schemas;FALSE;Data M
 What is the primary goal of data mining?;To calculate mathematical constants like Pi;FALSE;Data Mining;EASY"""
 
                 if st.button(label="Copy prompt to clipboard 📋",type="primary"):
-                    pyperclip.copy(gpt_prompt)
-                    st.success(body="Prompt copied to the clipboard! 😉")
+                    try: 
+                        pyperclip.copy(gpt_prompt)
+                        st.success(body="Prompt copied to the clipboard! 😉")
+                    except:
+                        st.error(body="Sorry, that didn´t work. You´ll have to copy it directly from the code below! 😢")
                 st.session_state["code"] = st.code(gpt_prompt,language="html")
             
             col1, col2, col3 = st.columns([3,1,1])
