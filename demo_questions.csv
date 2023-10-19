@@ -915,16 +915,6 @@ Which SQL statement is used to retrieve data from a MySQL database?;ALTER TABLE;
 Which SQL statement is used to retrieve data from a MySQL database?;JOIN;FALSE;Data Management and Storage;EASY
 Which SQL statement is used to retrieve data from a MySQL database?;WHERE;FALSE;Data Management and Storage;EASY
 Which SQL statement is used to retrieve data from a MySQL database?;GROUP BY;FALSE;Data Management and Storage;EASY
-"What does the SQL statement ""SELECT * FROM customers";""" do?";FALSE;TRUE;Data Management and Storage
-"What does the SQL statement ""SELECT * FROM customers";""" do?";FALSE;FALSE;Data Management and Storage
-"What does the SQL statement ""SELECT * FROM customers";""" do?";FALSE;FALSE;Data Management and Storage
-"What does the SQL statement ""SELECT * FROM customers";""" do?";FALSE;FALSE;Data Management and Storage
-"What does the SQL statement ""SELECT * FROM customers";""" do?";FALSE;FALSE;Data Management and Storage
-"What does the SQL statement ""SELECT * FROM customers";""" do?";FALSE;FALSE;Data Management and Storage
-"What does the SQL statement ""SELECT * FROM customers";""" do?";FALSE;FALSE;Data Management and Storage
-"What does the SQL statement ""SELECT * FROM customers";""" do?";FALSE;FALSE;Data Management and Storage
-"What does the SQL statement ""SELECT * FROM customers";""" do?";FALSE;FALSE;Data Management and Storage
-"What does the SQL statement ""SELECT * FROM customers";""" do?";FALSE;FALSE;Data Management and Storage
 Which SQL keyword is used to filter records based on a specified condition?;WHERE;TRUE;Data Management and Storage;HARD
 Which SQL keyword is used to filter records based on a specified condition?;SELECT;FALSE;Data Management and Storage;HARD
 Which SQL keyword is used to filter records based on a specified condition?;INSERT;FALSE;Data Management and Storage;HARD
@@ -935,16 +925,6 @@ Which SQL keyword is used to filter records based on a specified condition?;JOIN
 Which SQL keyword is used to filter records based on a specified condition?;ORDER BY;FALSE;Data Management and Storage;HARD
 Which SQL keyword is used to filter records based on a specified condition?;CREATE TABLE;FALSE;Data Management and Storage;HARD
 Which SQL keyword is used to filter records based on a specified condition?;ALTER TABLE;FALSE;Data Management and Storage;HARD
-"What does the SQL statement ""SELECT COUNT(*) FROM orders";""" do?";FALSE;TRUE;Data Management and Storage
-"What does the SQL statement ""SELECT COUNT(*) FROM orders";""" do?";FALSE;FALSE;Data Management and Storage
-"What does the SQL statement ""SELECT COUNT(*) FROM orders";""" do?";FALSE;FALSE;Data Management and Storage
-"What does the SQL statement ""SELECT COUNT(*) FROM orders";""" do?";FALSE;FALSE;Data Management and Storage
-"What does the SQL statement ""SELECT COUNT(*) FROM orders";""" do?";FALSE;FALSE;Data Management and Storage
-"What does the SQL statement ""SELECT COUNT(*) FROM orders";""" do?";FALSE;FALSE;Data Management and Storage
-"What does the SQL statement ""SELECT COUNT(*) FROM orders";""" do?";FALSE;FALSE;Data Management and Storage
-"What does the SQL statement ""SELECT COUNT(*) FROM orders";""" do?";FALSE;FALSE;Data Management and Storage
-"What does the SQL statement ""SELECT COUNT(*) FROM orders";""" do?";FALSE;FALSE;Data Management and Storage
-"What does the SQL statement ""SELECT COUNT(*) FROM orders";""" do?";FALSE;FALSE;Data Management and Storage
 "What is the purpose of the SQL ""UPDATE"" statement?";Modifies existing data in a table;TRUE;Data Management and Storage;MEDIUM
 "What is the purpose of the SQL ""UPDATE"" statement?";Retrieves data from a table;FALSE;Data Management and Storage;MEDIUM
 "What is the purpose of the SQL ""UPDATE"" statement?";Deletes data from a table;FALSE;Data Management and Storage;MEDIUM
@@ -1192,17 +1172,17 @@ In the Entity-Relationship Model, what is an attribute?;A user interface element
 "In data modeling, what is ""high cardinality""?";When an attribute has a small number of unique values;FALSE;Data Management and Storage;MEDIUM
 "In data modeling, what is ""high cardinality""?";When an attribute has only one unique value;FALSE;Data Management and Storage;MEDIUM
 "In data modeling, what is ""high cardinality""?";When an attribute has no unique values;FALSE;Data Management and Storage;MEDIUM
-What is the cardinality of a one-to-one relationship in a database?;1:1;TRUE;Data Management and Storage;HARD
+What is the cardinality of a one-to-one relationship in a database?;01:01;TRUE;Data Management and Storage;HARD
 What is the cardinality of a one-to-one relationship in a database?;1:N;FALSE;Data Management and Storage;HARD
 What is the cardinality of a one-to-one relationship in a database?;N:1;FALSE;Data Management and Storage;HARD
 What is the cardinality of a one-to-one relationship in a database?;N:N;FALSE;Data Management and Storage;HARD
 What is the cardinality of a one-to-many relationship in a database?;1:N;TRUE;Data Management and Storage;HARD
-What is the cardinality of a one-to-many relationship in a database?;1:1;FALSE;Data Management and Storage;HARD
+What is the cardinality of a one-to-many relationship in a database?;01:01;FALSE;Data Management and Storage;HARD
 What is the cardinality of a one-to-many relationship in a database?;N:1;FALSE;Data Management and Storage;HARD
 What is the cardinality of a one-to-many relationship in a database?;N:N;FALSE;Data Management and Storage;HARD
 What is the cardinality of a many-to-many relationship in a database?;N:N;TRUE;Data Management and Storage;HARD
 What is the cardinality of a many-to-many relationship in a database?;1:N;FALSE;Data Management and Storage;HARD
-What is the cardinality of a many-to-many relationship in a database?;1:1;FALSE;Data Management and Storage;HARD
+What is the cardinality of a many-to-many relationship in a database?;01:01;FALSE;Data Management and Storage;HARD
 What is the cardinality of a many-to-many relationship in a database?;N:1;FALSE;Data Management and Storage;HARD
 What is CROW's foot notation primarily used for?;Entity-relationship modeling;TRUE;Data Management and Storage;EASY
 What is CROW's foot notation primarily used for?;Network configuration;FALSE;Data Management and Storage;EASY
